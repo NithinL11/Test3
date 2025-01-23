@@ -3,5 +3,5 @@
 Value_1=$1
 Value_2=$2
 
-#Dividing numbers and print it
+# So Dividing numbers and print it
 echo $((Value_1 / Value_2))
